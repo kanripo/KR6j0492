@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說鬼子母經
+#+DATE: 2015-08-30 20:33:37.556536
+#+PROPERTY: JUAN 0
