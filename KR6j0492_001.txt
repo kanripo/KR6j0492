@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:37.324439
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:18
 #+TITLE: 佛說鬼子母經
 #+PROPERTY: CBETA_ID T21n1262
 #+PROPERTY: ID KR6j0492
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1262
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0492_T_001-0290c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1262¶
-
- 《佛說鬼子母經》¶
+No. 1262¶
+《佛說鬼子母經》¶
 ¶
 失譯人今附西晉錄¶
 
